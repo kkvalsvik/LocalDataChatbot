@@ -1,0 +1,136 @@
+Products
+ContactSign in
+
+
+HomePrivacy Statement
+Privacy Statement
+Bilde1
+Volue ASA believes it is important to protect your privacy as a user or visitors of our products and services. We are committed to giving you a service that meets your need for privacy and protects your personal information.
+
+Volue values data privacy highly. Read more about our policy under.
+
+1. Scope
+This Privacy Policy applies to Volue’s processing of Personal Data concerning, or on behalf of, our customers, including but not limited to processing through Volue’s Solutions.
+
+This Privacy Policy explains what types of Personal Data we process, how Personal Data is processed by Volue and how Volue complies with relevant data privacy laws and regulations (‘Privacy Laws’), including the national laws of EU/EEA member states implementing or transposing Directive 95/46 EC or EU Regulation 2016/679 (‘GDPR’).
+
+We may anonymise your Personal Data and use anonymised data on an aggregated level for statistical purposes or for improving the Volue Solutions. When your data has been anonymised, and is used on an aggregated level, the data is no longer Personal Data, and such use is not covered by this Privacy Policy.
+
+2. Definitions
+‘Personal Data’ means any information relating to an identified or identifiable natural person (‘Data Subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number; location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identify of that natural person;
+
+‘We’ or ‘Volue’ refers to the legal entity Volue ASA, VAT.no. 924 332 166, Chr. Kroghsgate 16, 0186 Oslo, Norway, including its affiliates where Volue ASA directly or indirectly controls a minimum of 50% of the shares;
+
+‘Volue Solutions’ means all services, software and other products that are Volue-branded and/or offered via Volue websites, app stores, cloud services, mobile or tablet solutions etc.;
+
+‘Processing’ means any operation or set of operations which is/are performed on Personal Data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
+
+‘Data Controller’ means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data;
+
+‘Data Processor’ means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the Data Controller (and pursuant to the instructions given by the Data Controller)
+
+3. What types of Personal Data does Volue process?
+We collect, and associate with our customers’ accounts, information like names, email addresses, phone numbers, payment information, location data, physical addresses, and data regarding communication between our customers and Volue support at info@volue.com, etc.
+
+We also collect information from and about the devices our customers use for accessing our services. This includes information like IP addresses, the type of browser and device used, and other identifiers associated with your devices. Your devices (depending on their settings) may also transmit location information to the respective Volue Solution, but only if you have enabled location services on your device.
+
+Some additional processing of Personal Data is performed by our subsidiary Volue Market Services AS, as further detailed below.
+
+Unless explicitly informed otherwise in the respective Volue Solution, we do not process any Personal Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation, or Personal Data relating to criminal convictions or offences.
+
+4. Legal basis
+The provision of certain Personal Data is a necessary requirement in order for the Volue Solutions to be provided to you. Volue has legal basis for processing such Personal Data in Article 6 (1) b) of the GDPR (processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract), furthermore in Article 6 (1) f) of the GDPR (processing is necessary for the purposes of the legitimate interests pursued by the controller) which covers our marketing measures in an existing customer relationship . With regards to the processing performed by Volue Market Services AS, Article 6 (1) c) of the GDPR (processing is necessary for compliance with a legal obligation to which the controller is subject) applies in addition thereto.
+
+Volue will not process your Personal Data for purposes incompatible with the purposes that they are originally collected for, unless you have consented to processing for other, specified purposes. Volue may, for example, offer optional features of the Volue Solutions that require further processing of Personal Data.
+
+If and to the extent Volue processes any Personal Data on the basis of your consent, you may revoke such consent at any time.
+
+5. Data Controller
+Volue is the Data Controller in respect of the processing of the Personal Data that you have given Volue access to through the Volue Solutions or otherwise, if you have a direct customer relationship with Volue.
+
+If Volue processes your Personal Data on behalf of a business customer or partner of Volue, then Volue’s business customer or partner is the Data Controller, and Volue will process your Personal Data as a data processor in accordance with instructions given by the Data Controller.
+
+Inquiries regarding the processing of your Personal Data must be addressed to the Data Controller. If you do not know who the Data Controller is, please contact Volue on the contact information in Section 12, and we will help you out.
+
+6. For which purposes may Volue process Personal Data?
+Volue will only process your Personal Data for the purposes described in this Privacy Policy or, as the case may be, in accordance with lawful instructions given by the Data Controller, in accordance with a data processing agreement between Volue and the Data Controller.
+
+Volue may process your Personal Data for the following purposes:
+
+to provide the services to you, and to maintain and improve the operability of the services
+to manage the customer relationship between you and Volue, including by providing relevant information to you and communicating with you regarding the services, e.g., by informing you about your account, security updates and product information, to contact you for marketing purposes (which you may opt-out at any time), etc.
+to fulfill any obligations that Volue has towards you according to agreements between you and Volue, and to document such agreements
+With regards to Volue Market Services, to comply with the legal requirements that apply for financial services.
+7. How does Volue process Personal Data?
+Volue uses Personal Data collected for processing within the respective Volue Solution as agreed with you in a service agreement or otherwise, or in accordance with lawful instructions given by a Data Controller, as the case may be.
+
+We use technologies like cookies and pixel tags to provide, improve, protect and promote our services. For example, cookies help us with things like remembering a username, understanding how customers are interacting with our services, improving them based on that information, and providing information to you about services that we believe might be of interest to you. You can set your browser to not accept cookies, but please be aware that this might affect your service experience.
+
+8. For how long will Volue store your Personal Data? Your rights
+You have the following rights in relation to Volue’s processing of your Personal Data:
+
+You have the right to view your Personal Data being processed by Volue and to request a copy of such Personal Data, which shall be provided to you in a commonly used electronic format;
+You have the right to require that incorrect, incomplete or inaccurate Personal Data is rectified or erased;
+You have the right to obtain restriction of processing if you contest the accuracy of the Personal Data, the processing is unlawful, and you oppose erasure, or if you for the sake of establishing, exercising or defending a legal claim require Personal Data no longer needed by Powel;
+If any Personal Data are used for direct marketing purposes, you have the right to object to the processing of your Personal Data for such purposes;
+You have the right to lodge a complaint with the relevant supervisory authority (in Norway: Datatilsynet), if you are of the opinion that Volue processes your Personal Data in violation of this Privacy Policy or the Privacy Laws. Contact information is found in Section 12.
+9. How does Volue protect your Personal Data?
+Volue has implemented both organizational and technical measures to protect your Personal Data from unauthorized access, loss, distortion or extraction, and we are committed to .
+
+maintain data integrity and secure data availability. As part of our commitment, we utilise reasonable and appropriate physical, technical, and administrative procedures and measures to safeguard the information we collect and process. We store our customers’ data in secure operating environments that are only accessible to Volue employees and subcontractors on a need-to-know basis. Volue requests its registered users to verify their identity by e.g. login ID and password. In addition, thereto, we are continuously testing our Volue Solutions for vulnerabilities, and we are monitoring industry and technology developments in order to ensure that your Personal Data is always protected by state-of-the-art information security measures.
+
+10. How long will Volue process your Personal Data?
+We will only process Personal Data for as long as necessary in order to pursue the purposes for which the data is collected or to facilitate the services, unless we are obligated by law to store or process Personal Data for a longer period of time, e.g., to maintain appropriate financial records. Any Personal Data that we do not need in order to fulfill our legal obligations will be deleted without undue delay after your customer relationship with Volue has ended. If we are processing your Personal Data on behalf of a Data Controller, we will delete and/or return Personal Data in accordance with the relevant data processing agreement between Volue and the Data Controller.
+
+11. Does Volue share your Personal Data with third parties?
+Volue uses subcontractors such as vendors of cloud services or other IT hosting services such as Microsoft for the Microsoft Azure cloud. For more information about how Microsoft processes Personal Data in Microsoft Azure cloud, please see https://privacy.microsoft.com/en-us/privacystatement. When using subcontractors, Volue will always enter into a data processing agreement with such subcontractor that satisfies the requirements of applicable privacy laws, in order to safeguard your Personal Data. Volue is fully responsible for our subcontractors’ processing of Personal Data.
+
+Volue will not transfer or give access to Personal Data outside the EU/EEA, except in accordance with transfer agreements based on the EU Standard Contractual Clauses for the transfer of Personal Data to data processors established in outside the territory of the EU/EEA or other countries which the European Commission has found to guarantee an adequate level of data protection.
+
+12. Changes to this Privacy Policy
+We will update this Privacy Policy whenever necessary to reflect customer feedback and changes in Volue Solutions. Should we decide to modify this Privacy Policy, we will post the revised statement here, with an updated revision date. If we make significant changes to our Privacy Policy that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect.
+
+13. How to contact us or the supervising authority
+For any inquiries, comments, or questions regarding this Privacy Policy or Volue’s processing of Personal Data, please contact us using the following contact details:
+
+Email (preferred): info@volue.com
+Phone: +47 909 99 275
+Visiting address:
+
+Volue ASA, Chr. Kroghsgate 16, 0186 Oslo, Norway
+In case you want to lodge a complaint to the supervising authority, here is the contact information for the Norwegian Data Protection Authority (Datatilsynet):
+
+Visiting address: Tollbugata 3, 0152 Oslo
+Email: postkasse@datatilsynet.no
+Phone: +47 22 39 69 00
+Website: www.datatilsynet.no
+14. Additional provisions applying to the financial services provided by Volue Market Services AS
+Volue Market Services with org.no. 863 769 132 provides financial advice to and performs financial trading on behalf of its customers. In this respect Volue Market Services is obliged by law to record any communication with its customers, either by recording or, in case of physical meetings, by meeting protocols,and to store such recording and other electronical communication with customers related to investments, contracts, mandates etc performed or to be performed by Volue Market Services.
+
+For the purpose of compliance, quality control and evidencing of customer communication, Volue Market Services will be able to listen to such recorded conversations. Recordings are used only if customer or Volue Market Services has a legal reason to evidence the content of such communication.
+
+Recordings are to be stored for minimum 5 years and are deleted once the legal reason for keeping those has expired.
+
+Volue Market Services may be obliged to forward recorded information to the authorities or others if such request is based on applicable laws and regulations. In addition thereto such information may be forwarded to the Norwegian Finansklagenemnda (Finance market complaint committee) such as in relation of a customer complaint.
+
+Any request for insight in documentation recorded by and related to Volue Market Services financial advice or trading on behalf of you as a customer, including replay of recorded conversations is to be sent in writing to:
+
+Volue Market Services AS, Langbryggen 9, 4841 Arendal, Norway, info@volue.com, phone no. +47 73 80 45 00.
+
+Start your conversation with Volue
+We are a leading supplier of technology and enabler of the green transition.
+
+Learn more
+Products
+Who we are
+Investors
+News
+Careers
+Events
+Contact us
+Sign in
+Support
+Urgent Updates
+Energy Newsletter
+FAQPrivacy StatementEthics and compliance
+© 2023 All rights reserved
